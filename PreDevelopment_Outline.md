@@ -1,16 +1,10 @@
-============================================
 PROJECT GOALS
-============================================
 Practice using React Routing by creating a "Book Vending Machine App." 
 
-============================================
 DETAILS
-============================================
 The App homepage will feature an image of a vending machine with a list of genres. Clicking on each genre will route to a specific webpage displaying a recommendated book. Each book page will have its own styling, feature book-specific information, and route to purchase links.
 
-============================================
 STEPS
-============================================
 1. PreDevelopment Setup
   a. Install necessary tools (react-router-dom)
   b. Create folders (Components, Images, Styles)
